@@ -1,5 +1,4 @@
 #Deidre Mensah
-#Galehead Development
 
 #import modules
 from arcgis.gis import GIS
